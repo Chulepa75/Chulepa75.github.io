@@ -5,16 +5,17 @@ body {
 h1 {
     color:rgb(26, 82, 4);
     font-size: 2em;
-    margin-left: 500px;
+    margin-left: 25.5%;
 }
 
 h2{
-    margin-left: 500px;
+    margin-left: 25.5%;
+    margin-right: 25.5%;
 }
 
 p {
     font-size: 1em;
-    margin-left: 500px;
+    margin-left: 25.5%;
 }
 
 a {
@@ -26,9 +27,9 @@ img {
     width: 100%;
     max-width: 600px;
     margin-top: 30px;
-    margin-left: 530px;
+    margin-left: 25.5%;
 }
 
 ul{
-    margin-left: 500px;
+    margin-left: 23.4%;
 }
